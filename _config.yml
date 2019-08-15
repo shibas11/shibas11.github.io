@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "TIL"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jake Lee"
+name                     : "TIL of Jake Lee"
 description              : "Today I Learned"
 url                      : "https://shibas11.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,18 +107,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jake Lee"
+  avatar           : "https://avatars0.githubusercontent.com/u/8556102?s=400&u=f510c2eaaaebf335ab80ac5ad97b8d832c291729&v=4"
+  bio              : "I am a happy programmer."
+  location         : "Seoul, Korea"
+  email            : "shibas11@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:shibas11@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: # "https://shibas11.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/shibas11/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
